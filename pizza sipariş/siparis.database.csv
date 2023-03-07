@@ -1,0 +1,8 @@
+isim,kimlik_no,kart_no,kart_sifre,aciklama,tarih
+mahmut,44455445545,16546541256465,97281,Klasik,<_csv.writer object at 0x000001DF48CDBBD0>
+isim,kimlik_no,kart_no,kart_sifre,aciklama,tarih
+serdal,351510213s,1234843,45646231,TurkPizza,<_csv.writer object at 0x000002341D17B9A0>
+isim,kimlik_no,kart_no,kart_sifre,aciklama,tarih
+ulaþ,12421421432,123123124,1213,SadePizza ;Zeytin ;Mantar ;Peynir,<_csv.writer object at 0x0000022BEA8FBBD0>
+isim,kimlik_no,kart_no,kart_sifre,aciklama,tarih
+ad,1231,124214,4123,TurkPizza ;Zeytin ;Mantar ;Zeytin ;Mantar ;Zeytin,<_csv.writer object at 0x0000023C8B6FBC20>
